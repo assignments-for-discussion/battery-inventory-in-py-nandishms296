@@ -16,7 +16,7 @@ def test_bucketing_by_number_of_cycles():
   assert(counts["lowCount"] == 2)
   assert(counts["mediumCount"] == 4)
   assert(counts["highCount"] == 3)
-  print("Done counting :")
+print ("Done counting :")
 
 
 
